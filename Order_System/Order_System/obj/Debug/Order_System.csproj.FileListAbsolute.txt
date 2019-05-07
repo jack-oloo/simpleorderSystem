@@ -1,0 +1,10 @@
+C:\Users\jbolo\source\repos\Order_System\Order_System\bin\Debug\Order_System.exe.config
+C:\Users\jbolo\source\repos\Order_System\Order_System\bin\Debug\Order_System.exe
+C:\Users\jbolo\source\repos\Order_System\Order_System\bin\Debug\Order_System.pdb
+C:\Users\jbolo\source\repos\Order_System\Order_System\obj\Debug\Order_System.Form1.resources
+C:\Users\jbolo\source\repos\Order_System\Order_System\obj\Debug\Order_System.Properties.Resources.resources
+C:\Users\jbolo\source\repos\Order_System\Order_System\obj\Debug\Order_System.csproj.GenerateResource.Cache
+C:\Users\jbolo\source\repos\Order_System\Order_System\obj\Debug\Order_System.csproj.CoreCompileInputs.cache
+C:\Users\jbolo\source\repos\Order_System\Order_System\obj\Debug\Order_System.exe
+C:\Users\jbolo\source\repos\Order_System\Order_System\obj\Debug\Order_System.pdb
+C:\Users\jbolo\source\repos\Order_System\Order_System\obj\Debug\Order_System.csprojResolveAssemblyReference.cache
